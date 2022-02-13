@@ -18,11 +18,5 @@ CVE-2021-21975 poc
 </table>
 
 
-## <p align="center">Hoạt Động Của Tôi 📈</p>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=LeQuocKhanh2K&theme=react-dark&hide_border=true">
-<p>
 
-##
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
